@@ -81,3 +81,13 @@ switch (diaDaSemana) {
 }
 
 //Escreva um programa que receba uma letra e verifique se é uma vogal ou uma consoante.
+
+let letra = ""
+
+if letra === a  || letra === e ||  {
+    console.log("vogal");
+
+    else {
+        console.log("consoante");
+    }
+}
